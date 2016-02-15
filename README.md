@@ -1,6 +1,8 @@
 Tweet Fetch
 ===========
 
+[![Join the chat at https://gitter.im/XAXAdmin/tweetfetch](https://badges.gitter.im/XAXAdmin/tweetfetch.svg)](https://gitter.im/XAXAdmin/tweetfetch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This module fetches tweets from Twitter via GET requests to the REST API
 documented here: https://dev.twitter.com/docs/api/1.1/
 
